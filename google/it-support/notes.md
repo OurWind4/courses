@@ -4,4 +4,4 @@
 - Credential ID: 0bc6aad8-188a-45cb-a7a0-1ed1424a70ef
 - Verification: [Show credential](https://www.credly.com/badges/0bc6aad8-188a-45cb-a7a0-1ed1424a70ef) (or the official Coursera/Google link)
 
-Add the certificate image as `certificate.png` in this folder.
+[image](certificate.png)
